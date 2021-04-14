@@ -13,3 +13,11 @@ Introduction to the TypeScript language, why it was created, and how to use it f
 #### [module-02: Declare variable types in TypeScript](./module-02)
 
 Introduction to most common available types and its association with variables.
+
+#### [module-03: Implement interfaces in TypeScript](./module-03)
+
+Learning how to declare, instantiate and extend an interface. Declaring an interface with custom array types.
+
+#### [module-04: Develop typed functions by using TypeScript](./module-04)
+
+Using types in functions: writing functions that have required, optional, default, and rest parameters, defining function types using type aliases or interfaces.
