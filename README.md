@@ -21,3 +21,11 @@ Learning how to declare, instantiate and extend an interface. Declaring an inter
 #### [module-04: Develop typed functions by using TypeScript](./module-04)
 
 Using types in functions: writing functions that have required, optional, default, and rest parameters, defining function types using type aliases or interfaces.
+
+#### [module-05: Declare and instantiate classes in TypeScript](./module-05)
+
+Using classes in TypeScript way: declaring and using a class with TypeScript, defining properties, accessors, methods, static properties, extending classes and using interfaces with classes.
+
+#### [module-06: Define generics in TypeScript](./module-06)
+
+Generics in functions and classes: identifying use cases for generics, defining a generic function, declaring a generic interface and a generic class and implement generic constraints.
