@@ -29,3 +29,7 @@ Using classes in TypeScript way: declaring and using a class with TypeScript, de
 #### [module-06: Define generics in TypeScript](./module-06)
 
 Generics in functions and classes: identifying use cases for generics, defining a generic function, declaring a generic interface and a generic class and implement generic constraints.
+
+#### [module-07: Access external libraries from TypeScript + Organize code using modules](./module-07)
+
+Learning to organize a TypeScript code using modules and import external libraries with type libraries.
