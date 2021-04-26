@@ -33,3 +33,7 @@ Generics in functions and classes: identifying use cases for generics, defining 
 #### [module-07: Access external libraries from TypeScript + Organize code using modules](./module-07)
 
 Learning to organize a TypeScript code using modules and import external libraries with type libraries.
+
+#### [module-08: Organize code using TypeScript namespaces](./module-08)
+
+Learning the difference between module and namespaces code-organizing approach, implementing single- and multi-file namespaces.
